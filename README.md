@@ -7,6 +7,9 @@
 
 [![License](https://img.shields.io/badge/license-Apache-blue.svg)](https://github.com/catboost/catboost/blob/master/LICENSE)
 [![PyPI version](https://badge.fury.io/py/catboost.svg)](https://badge.fury.io/py/catboost)
+[![Build Status](https://travis-ci.org/STYTZ/catboost.svg?branch=master)](https://travis-ci.org/STYTZ/catboost)
+
+Fork by **Alexey Stytsenko** for Yandex Data Analysis School homework assignment.
 
 CatBoost is a machine learning method based on [gradient boosting](https://en.wikipedia.org/wiki/Gradient_boosting) over decision trees.
 
